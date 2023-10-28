@@ -1,0 +1,51 @@
+---
+title: "Resume"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# Working experience
+
+---
+
+*Nass International Education Corporation, Hangzhou, China	(June 2019 - August 2019)*         	      		                                     
+
+Event Planning Intern:
+
+ * Acquired professional knowledge regarding integrated event planning, resource expansion, and large-scale investment promotion activities.
+ 
+ * Utilized data mining tools to collect detailed higher education information globally, including rankings, admission criteria, and prerequisites.
+ 
+ * Conducted data analytics and illustrated the information via various data visualization methods.
+
+---
+
+*Stage 3 Final Project, Physiological Bases, MSU(  April 2021)*		
+
+Undergraduate Researcher:
+
+Psychological and Social factor that affect physical rehabilitation of the elderly after a fall: A Review of the Literature
+
+ * 	Performed a literature review with sixteen peer-reviewed journal articles to discuss the impact of psychological factors on the development of disease and overall recovery among the elderly population.
+ 
+ * Focused on several crucial factors, including the general importance of psychological factors and their role during post-injury, recovery, and associated implications of practices.
+ 
+ * Questionnaires and interviews were conducted with more than 10 elderly people after injury to discuss how their views on diseases and sports have changed after injury.
+ 
+ * Concluded the negative correlation between poor mental health and the process of injury recovery with potential further exploration.
+
+
+---
+
+*Play’d lab, Down's baby development，MSU(May2022 – Feb2023) *                                                                                 
+ *  Observe and record physical activity behaviors of infants with Down syndrome and how they affect body composition and motor skills throughout childhood
+ 
+ * 	Record the motor development of normal people and compare the data with the disabled.
+ 
+ * Use the BodPod and PeaPod to measure body composition and the Bayley Infant Development Scale and Gross Motor Development Test to measure motor skill development.
+ 
+ 
+---
+
