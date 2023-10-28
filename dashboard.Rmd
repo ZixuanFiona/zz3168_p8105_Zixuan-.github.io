@@ -4,6 +4,7 @@ output:
   flexdashboard::flex_dashboard:
     orientation: columns
     vertical_layout: fill
+    source_code : embed
 ---
 
 ```{r setup, include=FALSE}
@@ -12,6 +13,7 @@ library(p8105.datasets)
 library(httr)
 library(jsonlite)
 library(plotly)
+library(flexdashboard)
 
 get_all_inspections = function(url) {
   
@@ -104,4 +106,5 @@ nyc_score =
 nyc_score |> 
 plot_ly(x = ~cuisine_description, y = ~score, type = "box")
 ```
+
 
