@@ -50,6 +50,10 @@ url = "https://data.cityofnewyork.us/resource/43nn-pn8j.json"
 nyc_inspections = 
   get_all_inspections(url) %>%
   bind_rows() 
+
+nyc_inspections |> 
+  select(camis, boro, building, zipcode, critical_flag, score, census_tract, violation_description, grade, grade_date, latitude, longitude)
+  
 ```
 
 Column {data-width=650}
@@ -58,9 +62,6 @@ Column {data-width=650}
 ### American Restaurants in Manhattan by Street in longitude
 
 ```{r}
-nyc_inspections |> 
-  select(camis, boro, building, zipcode, critical_flag, score, census_tract, violation_description, grade, grade_date, latitude, longitude)
-  
 nyc_american =
   drop_na(nyc_inspections) |> 
   filter(cuisine_description == "American", 

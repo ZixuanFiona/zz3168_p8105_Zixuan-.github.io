@@ -10,7 +10,7 @@ navbar:
     - icon: fa-envelope fa-lg
       href: mailto:<zz3168@cumc.columbia.edu.com>
     - icon: fa-github fa-lg
-      href: http://github.com/<zz3168_github_Zixuan>/
+      href: http://github.com/<https://github.com/ZixuanFiona>/
 output:
   html_document:
     theme: cerulean
